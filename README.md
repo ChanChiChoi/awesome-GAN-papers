@@ -22,11 +22,18 @@ also, some papers and links collected from below, they are all awesome resources
 
 ---
 ### 2014
-- Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio .[Generative Adversarial Networks](https://arxiv.org/pdf/1406.02661) .[J] arXiv preprint arXiv:1406.02661.
-- Mehdi Mirza, Simon Osindero .[Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.01784) .[J] arXiv preprint arXiv:1411.01784.
+- 【GAN】Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio .[Generative Adversarial Networks](https://arxiv.org/pdf/1406.02661) .[J] arXiv preprint arXiv:1406.02661.
+- 【CGAN】Mehdi Mirza, Simon Osindero .[Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.01784) .[J] arXiv preprint arXiv:1411.01784.
 
 ### 2015
 - Malte Probst .[Generative Adversarial Networks in Estimation of Distribution Algorithms  for Combinatorial Optimization](https://arxiv.org/pdf/1509.09235) .[J] arXiv preprint arXiv:1509.09235.
+- 【Loss】Michael Mathieu et al. [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/abs/1511.05440) .[J] arXiv preprint arXiv:1511.05440.<br>[code:[dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)]
+- 【AAE】Alireza Makhzani et al. [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644).[J] arXiv preprint arXiv:1511.05644.
+- 【DCGAN】Alec Radford et al. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434).[J] arXiv preprint arXiv:1511.06434.<br>[code:[Newmu/dcgan_code](https://github.com/Newmu/dcgan_code);&nbsp;&nbsp;
+[pytorch_dcgan](https://github.com/pytorch/examples/tree/master/dcgan);&nbsp;&nbsp;
+[carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow);&nbsp;&nbsp;
+[soumith/dcgan.torch](https://github.com/soumith/dcgan.torch);&nbsp;&nbsp;
+[jacobgil/keras-dcgan](https://github.com/jacobgil/keras-dcgan)]
 
 ### 2016
 - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee .[Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396) .[J] arXiv preprint arXiv:1605.05396.
