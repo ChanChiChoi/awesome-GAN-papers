@@ -1,6 +1,24 @@
 # awesome-GAN-papers
 
-this collecting the papers (main from arxiv.org) about  Generative Adversarial Networks (GAN):
+this collecting the papers (main from arxiv.org) about  Generative Adversarial Networks (GAN)  
+also, some papers and links collected from, they are all awesome resources:
+- [1] [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+- [2] [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+- [3] [dongb5/GAN-Timeline](https://github.com/dongb5/GAN-Timeline)
+- [4] [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
+- [5] [LynnHo/GAN-Papers](https://github.com/LynnHo/GAN-Papers)
+- [6] [shawnyuen/GANsPaperCollection](https://github.com/shawnyuen/GANsPaperCollection)
+- [7] [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo);\, \, [the-gan-zoo-4-tsv](https://github.com/hindupuravinash/the-gan-zoo/blob/master/gans.tsv)
+- [8] [code][wiseodd/generative-models](https://github.com/wiseodd/generative-models)
+- [9] [code][hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+- [10] [code][znxlwm/pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections)
+- [11] [code&paper][kozistr/Awesome-GANs](https://github.com/kozistr/Awesome-GANs)
+- [12] [code][nashory/gans-collection.torch](https://github.com/nashory/gans-collection.torch)
+- [13] [savan77/The-GAN-World](https://github.com/savan77/The-GAN-World)
+- [14] [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
+- [15] [code][nisace/gan-lib](https://github.com/nisace/gan-lib)
+- [16] [code][sanghoon/tf-exercise-gan](https://github.com/sanghoon/tf-exercise-gan)
+- [17] [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 
 ### 2014
 - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio .[Generative Adversarial Networks](https://arxiv.org/pdf/1406.02661) .[J] arXiv preprint arXiv:1406.02661.
