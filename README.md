@@ -88,7 +88,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【AdaGAN】Ilya Tolstikhin, Sylvain Gelly, Olivier Bousquet, Carl-Johann Simon-Gabriel, Bernhard Schölkopf .[AdaGAN: Boosting Generative Models](https://arxiv.org/pdf/1701.02386) .[J] arXiv preprint arXiv:1701.02386.
 - Hao Dong, Paarth Neekhara, Chao Wu, Yike Guo .[Unsupervised Image-to-Image Translation with Generative Adversarial  Networks](https://arxiv.org/pdf/1701.02676) .[J] arXiv preprint arXiv:1701.02676.
 - Lars Mescheder, Sebastian Nowozin, Andreas Geiger .[Adversarial Variational Bayes: Unifying Variational Autoencoders and  Generative Adversarial Networks](https://arxiv.org/pdf/1701.04722) .[J] arXiv preprint arXiv:1701.04722.
--【Theory】 Martin Arjovsky, Léon Bottou .[Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862) .[J] arXiv preprint arXiv:1701.04862.
+- 【Theory】Martin Arjovsky, Léon Bottou .[Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862) .[J] arXiv preprint arXiv:1701.04862.
 - He Zhang, Vishwanath Sindagi, Vishal M. Patel .[Image De-raining Using a Conditional Generative Adversarial Network](https://arxiv.org/pdf/1701.05957) .[J] arXiv preprint arXiv:1701.05957.
 - Guo-Jun Qi .[Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](https://arxiv.org/pdf/1701.06264) .[J] arXiv preprint arXiv:1701.06264.
 - Alex Kuefler, Jeremy Morton, Tim Wheeler, Mykel Kochenderfer .[Imitating Driver Behavior with Generative Adversarial Networks](https://arxiv.org/pdf/1701.06699) .[J] arXiv preprint arXiv:1701.06699.
