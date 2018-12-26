@@ -27,7 +27,7 @@ also, some papers and links collected from below, they are all awesome resources
 
 ### 2015
 - Malte Probst .[Generative Adversarial Networks in Estimation of Distribution Algorithms  for Combinatorial Optimization](https://arxiv.org/pdf/1509.09235) .[J] arXiv preprint arXiv:1509.09235.
-- 【Loss】Michael Mathieu et al. [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/abs/1511.05440) .[J] arXiv preprint arXiv:1511.05440.<br>[code:[dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)]
+- 【Theory】Michael Mathieu et al. [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/abs/1511.05440) .[J] arXiv preprint arXiv:1511.05440.<br>[code:[dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)]
 - 【AAE】Alireza Makhzani et al. [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644).[J] arXiv preprint arXiv:1511.05644.
 - 【DCGAN】Alec Radford et al. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434).[J] arXiv preprint arXiv:1511.06434.<br>[code:[Newmu/dcgan_code](https://github.com/Newmu/dcgan_code);&nbsp;&nbsp;
 [pytorch_dcgan](https://github.com/pytorch/examples/tree/master/dcgan);&nbsp;&nbsp;
