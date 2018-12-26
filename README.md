@@ -20,6 +20,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [16] [code][sanghoon/tf-exercise-gan](https://github.com/sanghoon/tf-exercise-gan)
 - [17] [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 
+---
 ### 2014
 - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio .[Generative Adversarial Networks](https://arxiv.org/pdf/1406.02661) .[J] arXiv preprint arXiv:1406.02661.
 - Mehdi Mirza, Simon Osindero .[Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.01784) .[J] arXiv preprint arXiv:1411.01784.
