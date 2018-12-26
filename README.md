@@ -8,7 +8,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [4] [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
 - [5] [LynnHo/GAN-Papers](https://github.com/LynnHo/GAN-Papers)
 - [6] [shawnyuen/GANsPaperCollection](https://github.com/shawnyuen/GANsPaperCollection)
-- [7] [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo);\, \, [the-gan-zoo-4-tsv](https://github.com/hindupuravinash/the-gan-zoo/blob/master/gans.tsv)
+- [7] [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo);$nbsp;$nbsp;$nbsp;$nbsp; [the-gan-zoo-4-tsv](https://github.com/hindupuravinash/the-gan-zoo/blob/master/gans.tsv)
 - [8] [code][wiseodd/generative-models](https://github.com/wiseodd/generative-models)
 - [9] [code][hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 - [10] [code][znxlwm/pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections)
