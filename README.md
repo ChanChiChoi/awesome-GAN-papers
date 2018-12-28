@@ -44,6 +44,7 @@ also, some papers and links collected from below, they are all awesome resources
 *[LLipter/aae](https://github.com/LLipter/aae);&nbsp;&nbsp;<br>
 *[zduguid/aae](https://github.com/zduguid/aae);&nbsp;&nbsp;
 *[davidath/aae](https://github.com/davidath/aae);&nbsp;&nbsp;
+*[gdbmanu/git-aae-vae-gan&ipynb](https://github.com/gdbmanu/git-aae-vae-gan);&nbsp;&nbsp;
 ]
 - 【DCGAN】Alec Radford et al. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434).[J] arXiv preprint arXiv:1511.06434.<br>[code:[Newmu/dcgan_code](https://github.com/Newmu/dcgan_code);&nbsp;&nbsp;
 [pytorch_dcgan](https://github.com/pytorch/examples/tree/master/dcgan);&nbsp;&nbsp;
