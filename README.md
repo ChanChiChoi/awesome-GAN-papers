@@ -2,7 +2,7 @@
 
 this collecting the papers (main from arxiv.org) about  Generative Adversarial Networks (GAN)  
 also, some papers and links collected from below, they are all awesome resources:
-- [1] _[nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)_
+- [1] [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [2] [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 - [3] [dongb5/GAN-Timeline](https://github.com/dongb5/GAN-Timeline)
 - [4] [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
