@@ -34,15 +34,15 @@ also, some papers and links collected from below, they are all awesome resources
 [hwalsuklee/tensorflow-mnist-AAE](https://github.com/hwalsuklee/tensorflow-mnist-AAE);&nbsp;&nbsp;<br>
 [gitmatti/AAE-tensorflow](https://github.com/gitmatti/AAE-tensorflow);&nbsp;&nbsp;
 [spoilt333/onco-aae&ipynb](https://github.com/spoilt333/onco-aae/blob/master/fpt_ae/aae.ipynb);&nbsp;&nbsp;
-[takat0m0/AAE](https://github.com/takat0m0/AAE);&nbsp;&nbsp;
-[bfarzin/pytorch_aae](https://github.com/bfarzin/pytorch_aae);&nbsp;&nbsp;<br>
+[takat0m0/AAE](https://github.com/takat0m0/AAE);&nbsp;&nbsp;<br>
+[bfarzin/pytorch_aae](https://github.com/bfarzin/pytorch_aae);&nbsp;&nbsp;
 [greentfrapp/keras-aae](https://github.com/greentfrapp/keras-aae);&nbsp;&nbsp;
-[alimirzaei/adverserial-autoencoder-keras](https://github.com/alimirzaei/adverserial-autoencoder-keras);&nbsp;&nbsp;
+[alimirzaei/adverserial-autoencoder-keras](https://github.com/alimirzaei/adverserial-autoencoder-keras);&nbsp;&nbsp;<br>
 [sjchoi86/deep-autoencoders&ipynb](https://github.com/sjchoi86/deep-autoencoders/blob/master/src/demo_aae.ipynb);&nbsp;&nbsp;
-[MINGUKKANG/Adversarial-AutoEncoder](https://github.com/MINGUKKANG/Adversarial-AutoEncoder);&nbsp;&nbsp;<br>
-[LLipter/aae](https://github.com/LLipter/aae);&nbsp;&nbsp;
+[MINGUKKANG/Adversarial-AutoEncoder](https://github.com/MINGUKKANG/Adversarial-AutoEncoder);&nbsp;&nbsp;
+[LLipter/aae](https://github.com/LLipter/aae);&nbsp;&nbsp;<br>
 [zduguid/aae](https://github.com/zduguid/aae);&nbsp;&nbsp;
-[davidath/aae)](https://github.com/davidath/aae);&nbsp;&nbsp;
+[davidath/aae](https://github.com/davidath/aae);&nbsp;&nbsp;
 ]
 - 【DCGAN】Alec Radford et al. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434).[J] arXiv preprint arXiv:1511.06434.<br>[code:[Newmu/dcgan_code](https://github.com/Newmu/dcgan_code);&nbsp;&nbsp;
 [pytorch_dcgan](https://github.com/pytorch/examples/tree/master/dcgan);&nbsp;&nbsp;
