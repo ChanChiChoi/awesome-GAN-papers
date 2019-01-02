@@ -904,3 +904,55 @@ also, some papers and links collected from below, they are all awesome resources
 - Ke Li, Jitendra Malik .[On the Implicit Assumptions of GANs](https://arxiv.org/pdf/1811.12402) .[J] arXiv preprint arXiv:1811.12402.
 - Garoe Dorta, Sara Vicente, Neill D.F. Campbell, Ivor Simpson .[The GAN that Warped: Semantic Attribute Editing with Unpaired Data](https://arxiv.org/pdf/1811.12784) .[J] arXiv preprint arXiv:1811.12784.
 - Tom Schmiedlechner, Ignavier Ng Zhi Yong, Abdullah Al-Dujaili, Erik Hemberg, Una-May O'Reilly .[Lipizzaner: A System That Scales Robust Generative Adversarial Network Training](https://arxiv.org/pdf/1811.12843) .[J] arXiv preprint arXiv:1811.12843.
+- Wentian Zhao, Shaojie Wang, Zhihuai Xie, Jing Shi, Chenliang Xu .[GAN-EM: GAN based EM learning framework](https://arxiv.org/pdf/1812.00335) .[J] arXiv preprint arXiv:1812.00335.
+- Wenyuan Li, Yunlong Wang, Yong Cai, Corey Arnold, Emily Zhao, Yilian Yuan .[Semi-supervised Rare Disease Detection Using Generative Adversarial Network](https://arxiv.org/pdf/1812.00547) .[J] arXiv preprint arXiv:1812.00547.
+- Lijun Zhang, Yujin Zhang, Yongbin Gao .[A Wasserstein GAN model with the total variational regularization](https://arxiv.org/pdf/1812.00810) .[J] arXiv preprint arXiv:1812.00810.
+- Saúl Alonso-Monsalve, Leigh H. Whitehead .[Image-based model parameter optimisation using Model-Assisted Generative Adversarial Networks](https://arxiv.org/pdf/1812.00879) .[J] arXiv preprint arXiv:1812.00879.
+- Yijie Guo, Junhyuk Oh, Satinder Singh, Honglak Lee .[Generative Adversarial Self-Imitation Learning](https://arxiv.org/pdf/1812.00950) .[J] arXiv preprint arXiv:1812.00950.
+- Patricia Vitoria, Joan Sintes, Coloma Ballester .[Semantic Image Inpainting Through Improved Wasserstein Generative Adversarial Networks](https://arxiv.org/pdf/1812.01071) .[J] arXiv preprint arXiv:1812.01071.
+- Yujun Shen, Bolei Zhou, Ping Luo, Xiaoou Tang .[FaceFeat-GAN: a Two-Stage Approach for Identity-Preserving Face Synthesis](https://arxiv.org/pdf/1812.01288) .[J] arXiv preprint arXiv:1812.01288.
+- Samuel G. Finlayson, Hyunkwang Lee, Isaac S. Kohane, Luke Oakden-Rayner .[Towards generative adversarial networks as a new paradigm for radiology education](https://arxiv.org/pdf/1812.01547) .[J] arXiv preprint arXiv:1812.01547.
+- Tatsuki Koga, Naoki Nonaka, Jun Sakuma, Jun Seita .[General-to-Detailed GAN for Infrequent Class Medical Images](https://arxiv.org/pdf/1812.01690) .[J] arXiv preprint arXiv:1812.01690.
+- Sebastian Bujwid, Miquel Martí, Hossein Azizpour, Alessandro Pieropan .[GANtruth - an unpaired image-to-image translation method for driving scenarios](https://arxiv.org/pdf/1812.01710) .[J] arXiv preprint arXiv:1812.01710.
+- Mario Rüttgers, Sangseung Lee, Donghyun You .[Prediction of typhoon tracks using a generative adversarial network with observational and meteorological data](https://arxiv.org/pdf/1812.01943) .[J] arXiv preprint arXiv:1812.01943.
+- Ruishan Liu, Nicolo Fusi, Lester Mackey .[Model Compression with Generative Adversarial Networks](https://arxiv.org/pdf/1812.02271) .[J] arXiv preprint arXiv:1812.02271.
+- Qiao Tian, Bing Yang, Jing Chen, Benlai Tang, Shan Liu .[Generative Adversarial Network based Speaker Adaptation for High Fidelity WaveNet Vocoder](https://arxiv.org/pdf/1812.02339) .[J] arXiv preprint arXiv:1812.02339.
+- Ilyass Haloui, Jayant Sen Gupta, Vincent Feuillard .[Anomaly detection with Wasserstein GAN](https://arxiv.org/pdf/1812.02463) .[J] arXiv preprint arXiv:1812.02463.
+- Jogendra Nath Kundu, Maharshi Gor, R. Venkatesh Babu .[BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN](https://arxiv.org/pdf/1812.02591) .[J] arXiv preprint arXiv:1812.02591.
+- Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao .[StoryGAN: A Sequential Conditional GAN for Story Visualization](https://arxiv.org/pdf/1812.02784) .[J] arXiv preprint arXiv:1812.02784.
+- Partha Das, Anil S. Baslamisli, Yang Liu, Sezer Karaoglu, Theo Gevers .[Color Constancy by GANs: An Experimental Survey](https://arxiv.org/pdf/1812.03085) .[J] arXiv preprint arXiv:1812.03085.
+- Xiangtian Zheng, Bin Wang, Le Xie .[Synthetic Dynamic PMU Data Generation: A Generative Adversarial Network Approach](https://arxiv.org/pdf/1812.03203) .[J] arXiv preprint arXiv:1812.03203.
+- Blerta Lindqvist, Shridatt Sugrim, Rauf Izmailov .[AutoGAN: Robust Classifier Against Adversarial Attacks](https://arxiv.org/pdf/1812.03405) .[J] arXiv preprint arXiv:1812.03405.
+- Milad Salem, Shayan Taheri, Jiann Shiun Yuan .[Anomaly Generation using Generative Adversarial Networks in Host Based Intrusion Detection](https://arxiv.org/pdf/1812.04697) .[J] arXiv preprint arXiv:1812.04697.
+- Dung N. Tran, Trac D. Tran, Lam Nguyen .[Generative Adversarial Networks for Recovering Missing Spectral Information](https://arxiv.org/pdf/1812.04744) .[J] arXiv preprint arXiv:1812.04744.
+- Harsh Nilesh Pathak, Xinxin Li, Shervin Minaee, Brooke Cowan .[Efficient Super Resolution For Large-Scale Images Using Attentional GAN](https://arxiv.org/pdf/1812.04821) .[J] arXiv preprint arXiv:1812.04821.
+- Shervin Minaee, Amirali Abdolrashidi .[Iris-GAN: Learning to Generate Realistic Iris Images Using Convolutional GAN](https://arxiv.org/pdf/1812.04822) .[J] arXiv preprint arXiv:1812.04822.
+- Tero Karras, Samuli Laine, Timo Aila .[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948) .[J] arXiv preprint arXiv:1812.04948.
+- He Zhang, Benjamin S. Riggan, Shuowen Hu, Nathaniel J. Short, Vishal M.Patel .[Synthesis of High-Quality Visible Faces from Polarimetric Thermal Faces using Generative Adversarial Networks](https://arxiv.org/pdf/1812.05155) .[J] arXiv preprint arXiv:1812.05155.
+- Lu Mi, Macheng Shen, Jingzhao Zhang .[A Probe Towards Understanding GAN and VAE Models](https://arxiv.org/pdf/1812.05676) .[J] arXiv preprint arXiv:1812.05676.
+- Fangneng Zhan, Hongyuan Zhu, Shijian Lu .[Spatial Fusion GAN for Image Synthesis](https://arxiv.org/pdf/1812.05840) .[J] arXiv preprint arXiv:1812.05840.
+- L. Li, A. Vakanski (University of Idaho, USA) .[Generative adversarial networks for generation and classification of physical rehabilitation movement episodes](https://arxiv.org/pdf/1812.06307) .[J] arXiv preprint arXiv:1812.06307.
+- Shuai Yang, Jiaying Liu, Wenjing Wang, Zongming Guo .[TET-GAN: Text Effects Transfer via Stylization and Destylization](https://arxiv.org/pdf/1812.06384) .[J] arXiv preprint arXiv:1812.06384.
+- Lili Pan, Shen Cheng, Jian Liu, Yazhou Ren, Zenglin Xu .[Latent Dirichlet Allocation in Generative Adversarial Networks](https://arxiv.org/pdf/1812.06571) .[J] arXiv preprint arXiv:1812.06571.
+- Harshala Gammulle, Simon Denman, Sridha Sridharan, Clinton Fookes .[Multi-Level Sequence GAN for Group Activity Recognition](https://arxiv.org/pdf/1812.07124) .[J] arXiv preprint arXiv:1812.07124.
+- Tharindu Fernando, Simon Denman, Sridha Sridharan, Clinton Fookes .[GD-GAN: Generative Adversarial Networks for Trajectory Prediction and Group Detection in Crowds](https://arxiv.org/pdf/1812.07667) .[J] arXiv preprint arXiv:1812.07667.
+- Holly Grimm .[Training on Art Composition Attributes to Influence CycleGAN Art Generation](https://arxiv.org/pdf/1812.07710) .[J] arXiv preprint arXiv:1812.07710.
+- Rahul Dey, Felix Juefei-Xu, Vishnu Naresh Boddeti, Marios Savvides .[RankGAN: A Maximum Margin Ranking GAN for Generating Faces](https://arxiv.org/pdf/1812.08196) .[J] arXiv preprint arXiv:1812.08196.
+- Scott McCloskey, Michael Albright .[Detecting GAN-generated Imagery using Color Cues](https://arxiv.org/pdf/1812.08247) .[J] arXiv preprint arXiv:1812.08247.
+- Yu Cheng, Zhe Gan, Yitong Li, Jingjing Liu, Jianfeng Gao .[Sequential Attention GAN for Interactive Image Editing via Dialogue](https://arxiv.org/pdf/1812.08352) .[J] arXiv preprint arXiv:1812.08352.
+- Eric Laloy, Niklas Linde, Cyprien Ruffino, Romain Hérault, Gilles Gasso, Diedrik Jacques .[Gradient-based deterministic inversion of geophysical data with Generative Adversarial Networks: is it feasible?](https://arxiv.org/pdf/1812.09140) .[J] arXiv preprint arXiv:1812.09140.
+- Aaron Babier, Rafid Mahmood, Andrea L. McNiven, Adam Diamant, Timothy C. Y. Chan .[Knowledge-based automated planning with three-dimensional generative adversarial networks](https://arxiv.org/pdf/1812.09309) .[J] arXiv preprint arXiv:1812.09309.
+- WenTing Chen, Xinpeng Xie, Xi Jia, Linlin Shen .[Texture Deformation Based Generative Adversarial Networks for Face Editing](https://arxiv.org/pdf/1812.09832) .[J] arXiv preprint arXiv:1812.09832.
+- Wei Wang, Yuan Sun, Saman Halgamuge .[Improving MMD-GAN Training with Repulsive Loss Function](https://arxiv.org/pdf/1812.09916) .[J] arXiv preprint arXiv:1812.09916.
+- Bappaditya Mandal, N. B. Puhan, Avijit Verma .[Deep Convolutional Generative Adversarial Network Based Food Recognition Using Partially Labeled Data](https://arxiv.org/pdf/1812.10179) .[J] arXiv preprint arXiv:1812.10179.
+- Aria Rezaei, Chaowei Xiao, Jie Gao, Bo Li .[Protecting Sensitive Attributes via Generative Adversarial Networks](https://arxiv.org/pdf/1812.10193) .[J] arXiv preprint arXiv:1812.10193.
+- Shervin Minaee, Amirali Abdolrashidi .[Finger-GAN: Generating Realistic Fingerprint Images Using Connectivity Imposed GAN](https://arxiv.org/pdf/1812.10482) .[J] arXiv preprint arXiv:1812.10482.
+- Shayne O'Brien, Matt Groh, Abhimanyu Dubey .[Evaluating Generative Adversarial Networks on Explicitly Parameterized Distributions](https://arxiv.org/pdf/1812.10782) .[J] arXiv preprint arXiv:1812.10782.
+- Sangwoo Mo, Minsu Cho, Jinwoo Shin .[InstaGAN: Instance-aware Image-to-Image Translation](https://arxiv.org/pdf/1812.10889) .[J] arXiv preprint arXiv:1812.10889.
+- Haoming Jiang, Zhehui Chen, Minshuo Chen, Feng Liu, Dingding Wang, Tuo Zhao .[On Computation and Generalization of GANs with Spectrum Control](https://arxiv.org/pdf/1812.10912) .[J] arXiv preprint arXiv:1812.10912.
+- Moran Rubin, Omer Stein, Nir A. Turko, Yoav Nygate, Darina Roitshtain, Lidor Karako, Itay Barnea, Raja Giryes, Natan T. Shaked .[TOP-GAN: Label-Free Cancer Cell Classification Using Deep Learning with a Small Training Set](https://arxiv.org/pdf/1812.11006) .[J] arXiv preprint arXiv:1812.11006.
+- Irina Sanchez, Veronica Vilaplana .[Brain MRI super-resolution using 3D generative adversarial networks](https://arxiv.org/pdf/1812.11440) .[J] arXiv preprint arXiv:1812.11440.
+- Francesco Marra, Diego Gragnaniello, Luisa Verdoliva, Giovanni Poggi .[Do GANs leave artificial fingerprints?](https://arxiv.org/pdf/1812.11842) .[J] arXiv preprint arXiv:1812.11842.
+
+---
+### 2019
