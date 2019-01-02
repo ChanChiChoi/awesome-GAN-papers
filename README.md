@@ -62,13 +62,13 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Theory】Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen .[Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498) .[J] arXiv preprint arXiv:1606.03498.<br>[code:
 |[openai/improved-gan](https://github.com/openai/improved-gan)|;&nbsp;&nbsp;
 |[Sleepychord/ImprovedGAN-pytorch](https://github.com/Sleepychord/ImprovedGAN-pytorch)|;&nbsp;&nbsp;
-|[LDOUBLEV/semi-supervised-GAN](https://github.com/LDOUBLEV/semi-supervised-GAN)|;&nbsp;&nbsp;
+|[LDOUBLEV/semi-supervised-GAN](https://github.com/LDOUBLEV/semi-supervised-GAN)|;&nbsp;&nbsp;<br>
 |[musyoku/improved-gan](https://github.com/musyoku/improved-gan)|;&nbsp;&nbsp;
 |[bruno-31/ImprovedGAN-Tensorflow](https://github.com/bruno-31/ImprovedGAN-Tensorflow)|;&nbsp;&nbsp;
-|[eli5168/improved_gan_pytorch](https://github.com/eli5168/improved_gan_pytorch)|;&nbsp;&nbsp;
+|[eli5168/improved_gan_pytorch](https://github.com/eli5168/improved_gan_pytorch)|;&nbsp;&nbsp;<br>
 |[hvy/chainer-gan-improvements](https://github.com/hvy/chainer-gan-improvements)|;&nbsp;&nbsp;
 |[hiroharu-kato/improved_gan_chainer](https://github.com/hiroharu-kato/improved_gan_chainer)|;&nbsp;&nbsp;
-|[xjwang-cs/improved-gan-tf1.0.1](https://github.com/xjwang-cs/improved-gan-tf1.0.1)|;&nbsp;&nbsp;
+|[xjwang-cs/improved-gan-tf1.0.1](https://github.com/xjwang-cs/improved-gan-tf1.0.1)|;&nbsp;&nbsp;<br>
 ]
 - Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel .[InfoGAN: Interpretable Representation Learning by Information Maximizing  Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657) .[J] arXiv preprint arXiv:1606.03657.
 - Ming-Yu Liu, Oncel Tuzel .[Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536) .[J] arXiv preprint arXiv:1606.07536.
