@@ -73,7 +73,10 @@ also, some papers and links collected from below, they are all awesome resources
 - Ming-Yu Liu, Oncel Tuzel .[Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536) .[J] arXiv preprint arXiv:1606.07536.
 - Hanock Kwak, Byoung-Tak Zhang .[Generating Images Part by Part with Composite Generative Adversarial  Networks](https://arxiv.org/pdf/1607.05387) .[J] arXiv preprint arXiv:1607.05387.
 - 【EBGAN】Junbo Zhao, Michael Mathieu, Yann LeCun .[Energy-based Generative Adversarial Network](https://arxiv.org/pdf/1609.03126) .[J] arXiv preprint arXiv:1609.03126.<br>[code:[buriburisuri/ebgan](https://github.com/buriburisuri/ebgan)]
-- 【iGAN】Jun-Yan Zhu et al. [Generative Visual Manipulation on the Natural Image Manifold](https://arxiv.org/abs/1609.03552) .[J] arXiv preprint arXiv:1609.03126.<br>[code:[junyanz/iGAN](https://github.com/junyanz/iGAN)]
+- 【iGAN】Jun-Yan Zhu et al. [Generative Visual Manipulation on the Natural Image Manifold](https://arxiv.org/abs/1609.03552) .[J] arXiv preprint arXiv:1609.03126.<br>[code:
+|[junyanz/iGAN](https://github.com/junyanz/iGAN)|:&nbsp;&nbsp;
+|[kevinthesun/IGAN_MXNet](https://github.com/kevinthesun/IGAN_MXNet)|
+]
 - Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu .[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473) .[J] arXiv preprint arXiv:1609.05473.
 - Arnab Ghosh, Viveka Kulharia, Amitabha Mukerjee, Vinay Namboodiri, Mohit Bansal .[Contextual RNN-GANs for Abstract Reasoning Diagram Generation](https://arxiv.org/pdf/1609.09444) .[J] arXiv preprint arXiv:1609.09444.
 - David Pfau, Oriol Vinyals .[Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/pdf/1610.01945) .[J] arXiv preprint arXiv:1610.01945.
