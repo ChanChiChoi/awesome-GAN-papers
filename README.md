@@ -20,6 +20,9 @@ also, some papers and links collected from below, they are all awesome resources
 - [16] [code][sanghoon/tf-exercise-gan](https://github.com/sanghoon/tf-exercise-gan)
 - [17] [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 - [18] [code][eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+- [19] [code][YadiraF/GAN](https://github.com/YadiraF/GAN)
+- [20] [code&notebook][shayneobrien/generative-models](https://github.com/shayneobrien/generative-models)
+- [21] [paper][lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
 
 ---
 ### 2014
