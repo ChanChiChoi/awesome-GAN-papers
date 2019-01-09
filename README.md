@@ -80,6 +80,7 @@ also, some papers and links collected from below, they are all awesome resources
 |[junyanz/iGAN](https://github.com/junyanz/iGAN)|:&nbsp;&nbsp;
 |[kevinthesun/IGAN_MXNet](https://github.com/kevinthesun/IGAN_MXNet)|
 ]
+- C. Ledig, L. Theis, F. Husz´ar, J. Caballero, A. Cunningham, A. Acosta, A. Aitken, A. Tejani, J. Totz, Z. Wang, et al. [Photo-realistic single image super-resolution using a generative adversarial network](https://arxiv.org/pdf/1609.04802). arXiv preprint arXiv:1609.04802, 2016.
 - Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu .[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473) .[J] arXiv preprint arXiv:1609.05473.
 - Arnab Ghosh, Viveka Kulharia, Amitabha Mukerjee, Vinay Namboodiri, Mohit Bansal .[Contextual RNN-GANs for Abstract Reasoning Diagram Generation](https://arxiv.org/pdf/1609.09444) .[J] arXiv preprint arXiv:1609.09444.
 - David Pfau, Oriol Vinyals .[Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/pdf/1610.01945) .[J] arXiv preprint arXiv:1610.01945.
