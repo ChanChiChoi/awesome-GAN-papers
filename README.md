@@ -122,7 +122,8 @@ also, some papers and links collected from below, they are all awesome resources
 ### 2017
 - Ian Goodfellow .[NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160) .[J] arXiv preprint arXiv:1701.00160.
 - Junting Pan, Cristian Canton Ferrer, Kevin McGuinness, Noel E. O'Connor, Jordi Torres, Elisa Sayrol, Xavier Giro-i-Nieto .[SalGAN: Visual Saliency Prediction with Generative Adversarial Networks](https://arxiv.org/pdf/1701.01081) .[J] arXiv preprint arXiv:1701.01081.
-- 【AdaGAN】Ilya Tolstikhin, Sylvain Gelly, Olivier Bousquet, Carl-Johann Simon-Gabriel, Bernhard Schölkopf .[AdaGAN: Boosting Generative Models](https://arxiv.org/pdf/1701.02386) .[J] arXiv preprint arXiv:1701.02386.
+- 【AdaGAN】Ilya Tolstikhin, Sylvain Gelly, Olivier Bousquet, Carl-Johann Simon-Gabriel, Bernhard Schölkopf .[AdaGAN: Boosting Generative Models](https://arxiv.org/pdf/1701.02386) .[J] arXiv preprint arXiv:1701.02386.<br>[code:
+|[tolstikhin/adagan](https://github.com/tolstikhin/adagan)|:&nbsp;&nbsp;]
 - Hao Dong, Paarth Neekhara, Chao Wu, Yike Guo .[Unsupervised Image-to-Image Translation with Generative Adversarial  Networks](https://arxiv.org/pdf/1701.02676) .[J] arXiv preprint arXiv:1701.02676.
 - Mahesh Gorijala, Ambedkar Dukkipati .[Image Generation and Editing with Variational Info Generative AdversarialNetworks](https://arxiv.org/pdf/1701.04568) .[J] arXiv preprint arXiv:1701.04568.
 - Lars Mescheder, Sebastian Nowozin, Andreas Geiger .[Adversarial Variational Bayes: Unifying Variational Autoencoders and  Generative Adversarial Networks](https://arxiv.org/pdf/1701.04722) .[J] arXiv preprint arXiv:1701.04722.
