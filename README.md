@@ -128,7 +128,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Hao Dong, Paarth Neekhara, Chao Wu, Yike Guo .[Unsupervised Image-to-Image Translation with Generative Adversarial  Networks](https://arxiv.org/pdf/1701.02676) .[J] arXiv preprint arXiv:1701.02676.
 - Mahesh Gorijala, Ambedkar Dukkipati .[Image Generation and Editing with Variational Info Generative AdversarialNetworks](https://arxiv.org/pdf/1701.04568) .[J] arXiv preprint arXiv:1701.04568.
 - Lars Mescheder, Sebastian Nowozin, Andreas Geiger .[Adversarial Variational Bayes: Unifying Variational Autoencoders and  Generative Adversarial Networks](https://arxiv.org/pdf/1701.04722) .[J] arXiv preprint arXiv:1701.04722.
-- 【Theory】Martin Arjovsky, Léon Bottou .[Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862) .[J] arXiv preprint arXiv:1701.04862.
+- 【Pre-WGAN】Martin Arjovsky, Léon Bottou .[Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862) .[J] arXiv preprint arXiv:1701.04862.
 - Luke de Oliveira, Michela Paganini, Benjamin Nachman .[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://arxiv.org/pdf/1701.05927) .[J] arXiv preprint arXiv:1701.05927.
 - He Zhang, Vishwanath Sindagi, Vishal M. Patel .[Image De-raining Using a Conditional Generative Adversarial Network](https://arxiv.org/pdf/1701.05957) .[J] arXiv preprint arXiv:1701.05957.
 - Guo-Jun Qi .[Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](https://arxiv.org/pdf/1701.06264) .[J] arXiv preprint arXiv:1701.06264.
