@@ -169,7 +169,9 @@ also, some papers and links collected from below, they are all awesome resources
 - Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz .[Deep Models Under the GAN: Information Leakage from Collaborative Deep  Learning](https://arxiv.org/pdf/1702.07464) .[J] arXiv preprint arXiv:1702.07464.
 - Jia-Jie Zhu, José Bento .[Generative Adversarial Active Learning](https://arxiv.org/pdf/1702.07956) .[J] arXiv preprint arXiv:1702.07956.
 - Tong Che, Yanran Li, Ruixiang Zhang, R Devon Hjelm, Wenjie Li, Yangqiu Song, Yoshua Bengio .[Maximum-Likelihood Augmented Discrete Generative Adversarial Networks](https://arxiv.org/pdf/1702.07983) .[J] arXiv preprint arXiv:1702.07983.
-- 【CAAE】Zhifei Zhang et al. [Age Progression/Regression by Conditional Adversarial Autoencoder](https://arxiv.org/abs/1702.08423) .[J] arXiv preprint arXiv:1702.08423.
+- 【CAAE】Zhifei Zhang et al. [Age Progression/Regression by Conditional Adversarial Autoencoder](https://arxiv.org/abs/1702.08423) .[J] arXiv preprint arXiv:1702.08423.<br>[code:
+[zzutk.github.io/Face-Aging-CAAE](https://zzutk.github.io/Face-Aging-CAAE)
+]
 - 【BS-GAN】R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio .[Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/pdf/1702.08431) .[J] arXiv preprint arXiv:1702.08431.<br>[code:[wiseodd/generative-models](https://github.com/wiseodd/generative-models)]
 - Sanjeev Arora, Rong Ge, Yingyu Liang, Tengyu Ma, Yi Zhang .[Generalization and Equilibrium in Generative Adversarial Nets (GANs)](https://arxiv.org/pdf/1703.00573) .[J] arXiv preprint arXiv:1703.00573.
 - Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh .[LR-GAN: Layered Recursive Generative Adversarial Networks for Image  Generation](https://arxiv.org/pdf/1703.01560) .[J] arXiv preprint arXiv:1703.01560.
