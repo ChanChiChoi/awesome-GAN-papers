@@ -170,7 +170,11 @@ also, some papers and links collected from below, they are all awesome resources
 - Jia-Jie Zhu, José Bento .[Generative Adversarial Active Learning](https://arxiv.org/pdf/1702.07956) .[J] arXiv preprint arXiv:1702.07956.
 - Tong Che, Yanran Li, Ruixiang Zhang, R Devon Hjelm, Wenjie Li, Yangqiu Song, Yoshua Bengio .[Maximum-Likelihood Augmented Discrete Generative Adversarial Networks](https://arxiv.org/pdf/1702.07983) .[J] arXiv preprint arXiv:1702.07983.
 - 【CAAE】Zhifei Zhang et al. [Age Progression/Regression by Conditional Adversarial Autoencoder](https://arxiv.org/abs/1702.08423) .[J] arXiv preprint arXiv:1702.08423.<br>[code:
-[zzutk.github.io/Face-Aging-CAAE](https://zzutk.github.io/Face-Aging-CAAE)
+|[zzutk.github.io/Face-Aging-CAAE](https://zzutk.github.io/Face-Aging-CAAE)|&nbsp;&nbsp;
+|[Jooong/Face-Aging-CAAE-Pytorch](https://github.com/Jooong/Face-Aging-CAAE-Pytorch)|&nbsp;&nbsp;
+|[wangxiao5791509/Age-Progression-Regression-by-CAAE](https://github.com/wangxiao5791509/Age-Progression-Regression-by-CAAE)|&nbsp;&nbsp;
+|[hai046/Face-Aging-CAAE_pro](https://github.com/hai046/Face-Aging-CAAE_pro)|&nbsp;&nbsp;
+|[SaltedSlark/CAAE.ipynb](https://github.com/SaltedSlark/CAAE/blob/master/CAAE.ipynb)|
 ]
 - 【BS-GAN】R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio .[Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/pdf/1702.08431) .[J] arXiv preprint arXiv:1702.08431.<br>[code:[wiseodd/generative-models](https://github.com/wiseodd/generative-models)]
 - Sanjeev Arora, Rong Ge, Yingyu Liang, Tengyu Ma, Yi Zhang .[Generalization and Equilibrium in Generative Adversarial Nets (GANs)](https://arxiv.org/pdf/1703.00573) .[J] arXiv preprint arXiv:1703.00573.
