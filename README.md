@@ -176,7 +176,8 @@ also, some papers and links collected from below, they are all awesome resources
 |[hai046/Face-Aging-CAAE_pro](https://github.com/hai046/Face-Aging-CAAE_pro)|&nbsp;&nbsp;
 |[SaltedSlark/CAAE.ipynb](https://github.com/SaltedSlark/CAAE/blob/master/CAAE.ipynb)|
 ]
-- 【BS-GAN】R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio .[Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/pdf/1702.08431) .[J] arXiv preprint arXiv:1702.08431.<br>[code:[wiseodd/generative-models](https://github.com/wiseodd/generative-models)]
+- 【BS-GAN】R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio .[Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/pdf/1702.08431) .[J] arXiv preprint arXiv:1702.08431.<br>[code:[wiseodd/generative-models](https://github.com/wiseodd/generative-models)&nbsp;&nbsp;[ekrim/bgan-t](https://github.com/ekrim/bgan-tf)&nbsp;&nbsp;[rdevon/BGAN](https://github.com/rdevon/BGAN)&nbsp;&nbsp;[DeepTensors/Boundary-Seeking-GAN](https://github.com/DeepTensors/Boundary-Seeking-GAN)
+]
 - Sanjeev Arora, Rong Ge, Yingyu Liang, Tengyu Ma, Yi Zhang .[Generalization and Equilibrium in Generative Adversarial Nets (GANs)](https://arxiv.org/pdf/1703.00573) .[J] arXiv preprint arXiv:1703.00573.
 - Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh .[LR-GAN: Layered Recursive Generative Adversarial Networks for Image  Generation](https://arxiv.org/pdf/1703.01560) .[J] arXiv preprint arXiv:1703.01560.
 - Zhiming Zhou, Han Cai, Shu Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Yong Yu, Jun Wang .[Activation Maximization Generative Adversarial Nets](https://arxiv.org/pdf/1703.02000) .[J] arXiv preprint arXiv:1703.02000.
