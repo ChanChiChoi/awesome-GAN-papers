@@ -24,6 +24,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [20] [code&notebook][shayneobrien/generative-models](https://github.com/shayneobrien/generative-models)
 - [21] [paper][lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
 - [22] [code&notebook][shayneobrien/generative-models](https://github.com/shayneobrien/generative-models)
+- [23] [code][MingtaoGuo/\*GAN](https://github.com/MingtaoGuo/DCGAN_WGAN_WGAN-GP_LSGAN_SNGAN_RSGAN_RaSGAN_BEGAN_TensorFlow)
 
 ---
 ### 2014
@@ -198,7 +199,26 @@ also, some papers and links collected from below, they are all awesome resources
 - 【CycleGAN】Jun-Yan Zhu et al. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593).[J] arXiv preprint arXiv:1703.10593.<br>[code:[junyanz/CycleGAN](https://github.com/junyanz/CycleGAN);&nbsp;&nbsp;
 [junyanz.github.io/CycleGAN](https://junyanz.github.io/CycleGAN/);&nbsp;&nbsp;
 [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
-- 【BEGAN】David Berthelot, Thomas Schumm, Luke Metz .[BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717) .[J] arXiv preprint arXiv:1703.10717.<br>[code;[wiseodd/generative-models](https://github.com/wiseodd/generative-models)；[rdevon/BGAN](https://github.com/rdevon/BGAN);[ekrim/bgan-tf](https://github.com/ekrim/bgan-tf)]
+- 【BEGAN】David Berthelot, Thomas Schumm, Luke Metz .[BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717) .[J] arXiv preprint arXiv:1703.10717.<br>[code;
+|[wiseodd/generative-models](https://github.com/wiseodd/generative-models)|&nbsp;&nbsp;
+|[rdevon/BGAN](https://github.com/rdevon/BGAN)|&nbsp;&nbsp;
+|[ekrim/bgan-tf](https://github.com/ekrim/bgan-tf)|&nbsp;&nbsp;
+|[carpedm20/BEGAN-tensorflow](https://github.com/carpedm20/BEGAN-tensorflow)|&nbsp;&nbsp;
+|[artcg/BEGAN](https://github.com/artcg/BEGAN)|&nbsp;&nbsp;
+|[Heumi/BEGAN-tensorflow](https://github.com/Heumi/BEGAN-tensorflow)|&nbsp;&nbsp;
+|[carpedm20/BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch)|&nbsp;&nbsp;
+|[taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)|&nbsp;&nbsp;
+|[mokemokechicken/keras_BEGAN](https://github.com/mokemokechicken/keras_BEGAN)|&nbsp;&nbsp;
+|[YadiraF/GAN_Theorie&TOTAL](https://github.com/YadiraF/GAN_Theories)|&nbsp;&nbsp;
+|[adepierre/Caffe_BEGAN](https://github.com/adepierre/Caffe_BEGAN)|&nbsp;&nbsp;
+|[HiiYL/BEGAN-PyTorch](https://github.com/HiiYL/BEGAN-PyTorch)|&nbsp;&nbsp;
+|[]()|&nbsp;&nbsp;
+|[]()|&nbsp;&nbsp;
+|[]()|&nbsp;&nbsp;
+|[]()|&nbsp;&nbsp;
+|[]()|&nbsp;&nbsp;
+|[]()|&nbsp;&nbsp;
+]
 - Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang .[MidiNet: A Convolutional Generative Adversarial Network for  Symbolic-domain Music Generation](https://arxiv.org/pdf/1703.10847) .[J] arXiv preprint arXiv:1703.10847.
 - 【Improved-WGAN】Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville .[Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028) .[J] arXiv preprint arXiv:1704.00028.
 - Chin-Cheng Hsu, Hsin-Te Hwang, Yi-Chiao Wu, Yu Tsao, Hsin-Min Wang .[Voice Conversion from Unaligned Corpora using Variational Autoencoding  Wasserstein Generative Adversarial Networks](https://arxiv.org/pdf/1704.00849) .[J] arXiv preprint arXiv:1704.00849.
