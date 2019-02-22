@@ -202,22 +202,29 @@ also, some papers and links collected from below, they are all awesome resources
 - 【BEGAN】David Berthelot, Thomas Schumm, Luke Metz .[BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717) .[J] arXiv preprint arXiv:1703.10717.<br>[code;
 |[wiseodd/generative-models](https://github.com/wiseodd/generative-models)|&nbsp;&nbsp;
 |[rdevon/BGAN](https://github.com/rdevon/BGAN)|&nbsp;&nbsp;
-|[ekrim/bgan-tf](https://github.com/ekrim/bgan-tf)|&nbsp;&nbsp;
+|[ekrim/bgan-tf](https://github.com/ekrim/bgan-tf)|&nbsp;&nbsp;<br>
 |[carpedm20/BEGAN-tensorflow](https://github.com/carpedm20/BEGAN-tensorflow)|&nbsp;&nbsp;
 |[artcg/BEGAN](https://github.com/artcg/BEGAN)|&nbsp;&nbsp;
-|[Heumi/BEGAN-tensorflow](https://github.com/Heumi/BEGAN-tensorflow)|&nbsp;&nbsp;
+|[Heumi/BEGAN-tensorflow](https://github.com/Heumi/BEGAN-tensorflow)|&nbsp;&nbsp;<br>
 |[carpedm20/BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch)|&nbsp;&nbsp;
 |[taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)|&nbsp;&nbsp;
-|[mokemokechicken/keras_BEGAN](https://github.com/mokemokechicken/keras_BEGAN)|&nbsp;&nbsp;
+|[mokemokechicken/keras_BEGAN](https://github.com/mokemokechicken/keras_BEGAN)|&nbsp;&nbsp;<br>
 |[YadiraF/GAN_Theorie&TOTAL](https://github.com/YadiraF/GAN_Theories)|&nbsp;&nbsp;
 |[adepierre/Caffe_BEGAN](https://github.com/adepierre/Caffe_BEGAN)|&nbsp;&nbsp;
-|[HiiYL/BEGAN-PyTorch](https://github.com/HiiYL/BEGAN-PyTorch)|&nbsp;&nbsp;
-|[]()|&nbsp;&nbsp;
-|[]()|&nbsp;&nbsp;
-|[]()|&nbsp;&nbsp;
-|[]()|&nbsp;&nbsp;
-|[]()|&nbsp;&nbsp;
-|[]()|&nbsp;&nbsp;
+|[HiiYL/BEGAN-PyTorch](https://github.com/HiiYL/BEGAN-PyTorch)|&nbsp;&nbsp;<br>
+|[shayneobrien/generative-models](https://github.com/shayneobrien/generative-models)|&nbsp;&nbsp;
+|[anantzoid/BEGAN-pytorch](https://github.com/anantzoid/BEGAN-pytorch)|&nbsp;&nbsp;
+|[sanghoon/tf-exercise-gan](https://github.com/sanghoon/tf-exercise-gan)|&nbsp;&nbsp;<br>
+|[RuiShu/began](https://github.com/RuiShu/began)|&nbsp;&nbsp;
+|[khanrc/tf.gans-comparison](https://github.com/khanrc/tf.gans-comparison)|&nbsp;&nbsp;
+|[musyoku/began&chainer](https://github.com/musyoku/began)|&nbsp;&nbsp;<br>
+|[Overseer66/Tensorflow-GAN&notebook](https://github.com/Overseer66/Tensorflow-GAN)|&nbsp;&nbsp;
+|[HolyCaonima/BEGAN](https://github.com/HolyCaonima/BEGAN)|&nbsp;&nbsp;
+|[hvy/chainer-began&chainer](https://github.com/hvy/chainer-began)|&nbsp;&nbsp;<br>
+|[2wins/BEGAN-cntk](https://github.com/2wins/BEGAN-cntk)|&nbsp;&nbsp;
+|[2wins/BEGAN-tensorlayer](https://github.com/2wins/BEGAN-tensorlayer)|&nbsp;&nbsp;
+|[1Konny/BEGAN-pytorch](https://github.com/1Konny/BEGAN-pytorch)|&nbsp;&nbsp;<br>
+|[nashory/BEGAN-torch7](https://github.com/nashory/BEGAN-torch7)|&nbsp;&nbsp;
 ]
 - Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang .[MidiNet: A Convolutional Generative Adversarial Network for  Symbolic-domain Music Generation](https://arxiv.org/pdf/1703.10847) .[J] arXiv preprint arXiv:1703.10847.
 - 【Improved-WGAN】Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville .[Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028) .[J] arXiv preprint arXiv:1704.00028.
