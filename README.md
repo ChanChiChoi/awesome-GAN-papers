@@ -1057,7 +1057,11 @@ also, some papers and links collected from below, they are all awesome resources
 - Dung N. Tran, Trac D. Tran, Lam Nguyen .[Generative Adversarial Networks for Recovering Missing Spectral Information](https://arxiv.org/pdf/1812.04744) .[J] arXiv preprint arXiv:1812.04744.
 - Harsh Nilesh Pathak, Xinxin Li, Shervin Minaee, Brooke Cowan .[Efficient Super Resolution For Large-Scale Images Using Attentional GAN](https://arxiv.org/pdf/1812.04821) .[J] arXiv preprint arXiv:1812.04821.
 - Shervin Minaee, Amirali Abdolrashidi .[Iris-GAN: Learning to Generate Realistic Iris Images Using Convolutional GAN](https://arxiv.org/pdf/1812.04822) .[J] arXiv preprint arXiv:1812.04822.
-- 【StyleGAN&Nvidia】Tero Karras, Samuli Laine, Timo Aila .[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948) .[J] arXiv preprint arXiv:1812.04948.
+- 【StyleGAN&Nvidia】Tero Karras, Samuli Laine, Timo Aila .[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948) .[J] arXiv preprint arXiv:1812.04948.<br>[code:
+|[NVlabs/stylegan](https://github.com/NVlabs/stylegan)|&nbsp;&nbsp;
+|[neuralnotworklab/stylegan](https://github.com/neuralnotworklab/stylegan)|&nbsp;&nbsp;
+|[korjusk/stylega](https://github.com/korjusk/stylegan)|&nbsp;&nbsp;
+]
 - He Zhang, Benjamin S. Riggan, Shuowen Hu, Nathaniel J. Short, Vishal M.Patel .[Synthesis of High-Quality Visible Faces from Polarimetric Thermal Faces using Generative Adversarial Networks](https://arxiv.org/pdf/1812.05155) .[J] arXiv preprint arXiv:1812.05155.
 - Lu Mi, Macheng Shen, Jingzhao Zhang .[A Probe Towards Understanding GAN and VAE Models](https://arxiv.org/pdf/1812.05676) .[J] arXiv preprint arXiv:1812.05676.
 - Fangneng Zhan, Hongyuan Zhu, Shijian Lu .[Spatial Fusion GAN for Image Synthesis](https://arxiv.org/pdf/1812.05840) .[J] arXiv preprint arXiv:1812.05840.
